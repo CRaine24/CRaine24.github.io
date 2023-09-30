@@ -1929,14 +1929,14 @@ input, select, textarea {
 		}
 
 	.box h2 {
-		margin: 0 0 0.75em 0;
-		font-size: 1.15em;
+		margin: 0 0 1.00em 0;
+		font-size: 1.75em;
 		letter-spacing: 0.05em;
 	}
 
 	.box h3 {
-		margin: 0 0 0.5em 0;
-		font-size: 1em;
+		margin: 0 0 0.75em 0;
+		font-size: 1.3em;
 		font-weight: 600;
 		letter-spacing: 0.05em;
 	}
