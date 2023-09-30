@@ -1951,6 +1951,12 @@ input, select, textarea {
 		margin-left: 7em;
 	}
 
+/* Gallery */
+
+	.gallery img {
+		position: static;
+	}
+
 /* Wrapper */
 
 	.wrapper {
